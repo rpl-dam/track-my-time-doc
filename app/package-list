@@ -125,6 +125,7 @@ $dokka.location:com.mapalo.trackmytime.framework.ui.main.viewmodel/MainActivityV
 $dokka.location:com.mapalo.trackmytime.framework.ui.main.viewmodel/MainActivityViewModel/updateLD/#/PointingToDeclaration/app/com.mapalo.trackmytime.framework.ui.main.viewmodel/-main-activity-view-model/update-l-d.html
 $dokka.location:com.mapalo.trackmytime.framework.ui.main////PointingToDeclaration/app/com.mapalo.trackmytime.framework.ui.main/index.html
 $dokka.location:com.mapalo.trackmytime.framework.ui.main//EMAIL/#/PointingToDeclaration/app/com.mapalo.trackmytime.framework.ui.main/-e-m-a-i-l.html
+$dokka.location:com.mapalo.trackmytime.framework.ui.main//FCM_TOKEN/#/PointingToDeclaration/app/com.mapalo.trackmytime.framework.ui.main/-f-c-m_-t-o-k-e-n.html
 $dokka.location:com.mapalo.trackmytime.framework.ui.main//PROVIDER/#/PointingToDeclaration/app/com.mapalo.trackmytime.framework.ui.main/-p-r-o-v-i-d-e-r.html
 $dokka.location:com.mapalo.trackmytime.framework.ui.main//TAG/#/PointingToDeclaration/app/com.mapalo.trackmytime.framework.ui.main/-t-a-g.html
 $dokka.location:com.mapalo.trackmytime.framework.ui.main/LoginActivity///PointingToDeclaration/app/com.mapalo.trackmytime.framework.ui.main/-login-activity/index.html
@@ -169,6 +170,7 @@ $dokka.location:com.mapalo.trackmytime.services////PointingToDeclaration/app/co
 $dokka.location:com.mapalo.trackmytime.services/MyFirebaseMessagingService///PointingToDeclaration/app/com.mapalo.trackmytime.services/-my-firebase-messaging-service/index.html
 $dokka.location:com.mapalo.trackmytime.services/MyFirebaseMessagingService/MyFirebaseMessagingService/#/PointingToDeclaration/app/com.mapalo.trackmytime.services/-my-firebase-messaging-service/-my-firebase-messaging-service.html
 $dokka.location:com.mapalo.trackmytime.services/MyFirebaseMessagingService/onMessageReceived/#com.google.firebase.messaging.RemoteMessage/PointingToDeclaration/app/com.mapalo.trackmytime.services/-my-firebase-messaging-service/on-message-received.html
+$dokka.location:com.mapalo.trackmytime.services/MyFirebaseMessagingService/onNewToken/#kotlin.String/PointingToDeclaration/app/com.mapalo.trackmytime.services/-my-firebase-messaging-service/on-new-token.html
 $dokka.location:com.mapalo.trackmytime.usecases////PointingToDeclaration/app/com.mapalo.trackmytime.usecases/index.html
 $dokka.location:com.mapalo.trackmytime.usecases/AddTimeEntry///PointingToDeclaration/app/com.mapalo.trackmytime.usecases/-add-time-entry/index.html
 $dokka.location:com.mapalo.trackmytime.usecases/AddTimeEntry/AddTimeEntry/#com.mapalo.trackmytime.data.repository.FirebaseRealtimeRepository/PointingToDeclaration/app/com.mapalo.trackmytime.usecases/-add-time-entry/-add-time-entry.html
